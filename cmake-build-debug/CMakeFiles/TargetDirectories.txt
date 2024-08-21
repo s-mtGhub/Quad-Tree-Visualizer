@@ -1,0 +1,3 @@
+C:/Users/SUMIT PATEL/OneDrive - iitkgp.ac.in/Desktop/p_jct/QuadTree_visualizer/cmake-build-debug/CMakeFiles/QuadTree_visualizer.dir
+C:/Users/SUMIT PATEL/OneDrive - iitkgp.ac.in/Desktop/p_jct/QuadTree_visualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SUMIT PATEL/OneDrive - iitkgp.ac.in/Desktop/p_jct/QuadTree_visualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
